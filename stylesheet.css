@@ -170,11 +170,12 @@ button {
     }
 
     .conttent {
+        width: 100%;
         padding-top : 30px;
     }
     
     input,textarea {
-        width: 500px;
+        width: 60％;
     }
 
 }
