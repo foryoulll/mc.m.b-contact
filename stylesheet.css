@@ -169,14 +169,8 @@ button {
         display: block;
     }
 
-    input,textarea {
-        width: 70%;
-
-    }
-
     .conttent {
         padding-top : 30px;
-        padding-left: 0;
     }
 
 }
